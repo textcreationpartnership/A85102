@@ -1,0 +1,174 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Famous victory obtained by the Right Honorable the Lord Brooks, against the Earle of Northamton neere Keintith in Warwickshire on the third of August, 1642. Ordered that this be printed, Hen. Elsynge Cler. Parliament.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85102</idno>
+            <idno type="STC">Wing F391</idno>
+            <idno type="STC">Thomason E109_19</idno>
+            <idno type="STC">ESTC R6877</idno>
+            <idno type="EEBO-CITATION">99873050</idno>
+            <idno type="PROQUEST">99873050</idno>
+            <idno type="VID">125499</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85102)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125499)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 19:E109[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Famous victory obtained by the Right Honorable the Lord Brooks, against the Earle of Northamton neere Keintith in Warwickshire on the third of August, 1642. Ordered that this be printed, Hen. Elsynge Cler. Parliament.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Henry Fowler,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>the sixt [sic] of August. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Brooke, Robert Greville, --  Baron, 1607-1643.</term>
+               <term>Northampton, Spencer Compton, --  Earl of, 1601-1643.</term>
+               <term>Warwickshire (England) --  History, Military --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:125499:1" rendition="simple:additions"/>
+            <p>A FAMOVS VICTORY OBTAINED BY THE RIGHT HONORABLE THE LORD <hi>BROOKS, AGANST THE</hi> EARLE OF NORTHAMTON neere <hi>Keintith</hi> in <hi>Warwickſhire</hi> on the third of <hi>Auguſt,</hi> 1642.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Ordered that this be Printed,</p>
+                        <closer>
+                           <signed>Hen. Elſynge Cler. Parliament.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON</hi> Printed for <hi>Henry Fowler,</hi> the ſixt of <hi>Auguſt.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:125499:2"/>
+            <pb n="3" facs="tcp:125499:2"/>
+            <head>A FAMOUS VICTORY OBTAINED BY THE Right Honourable the Lord BROOKS, againſt the Earle of NORTHAMPTON, on the third of <hi>Auguſt,</hi> 1642. neere <hi>Keintith</hi> in <hi>Warwick-ſhire.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>T the laſt meeting of the ſaid Earle &amp; the Lord <hi>Brooks</hi> I informed you upon what Conditions they agreed on, namely, that there ſhould be three dayes warning given before the removall of any Ammunition from <hi>Banbury</hi> to <hi>Warwicke</hi> Caſtle, which was per<g ref="char:EOLhyphen"/>formed by the ſaid Lord, for having ſent a Meſ<g ref="char:EOLhyphen"/>ſage to the ſaid Earle that he was reſolved to put
+<pb n="4" facs="tcp:125499:3"/>the command of the High Court of Parliament in execution, withall deſiring him to deſiſt from putting the Commiſſion of Array in execution, it being both illegall and deſtructive to the peace of the Kingdome. Which Meſſage being recei<g ref="char:EOLhyphen"/>ved by the Earle of <hi>Northampton,</hi> He preſently cauſed thoſe of his partie to arme themſelves, animating them on, and telling them that then was the time for them to doe their King and Countrey good and acceptable ſervice; with many other vaine glorious ſpeeches, which in<g ref="char:EOLhyphen"/>deed were uſefull. At that time thoſe of his par<g ref="char:EOLhyphen"/>rie for the major part being very cold in their affections toward that deſigne, yet nevertheleſſe by his flattering Orations, he drew a conſidera<g ref="char:EOLhyphen"/>ble company to him of Gentlemen and other poore men that were ſeduced by his pretence of ſtanding for the King; Which having obtained he put them into Order, and marcht towards <hi>Keintith</hi> unto a plaine Heath over which the Lord <hi>Brooks</hi> was to march with his Ammuni<g ref="char:EOLhyphen"/>tion.</p>
+            <p>The Lord <hi>Brooks</hi> according to his word ſet forward, having onely three hundred Muskette<g ref="char:EOLhyphen"/>ers, ſixtie Pikes, and about two hundred Horſe, being ſeverall well affected Gentlemen that were
+<pb n="5" facs="tcp:125499:3"/>Inhabitants in and about <hi>Banbury,</hi> nevertheleſſe, ſuch was the affection of the ſaid Countie to<g ref="char:EOLhyphen"/>ward the Parliament, and knowing no way bet<g ref="char:EOLhyphen"/>ter to expreſſe it than to the Lord <hi>Brooks,</hi> which was a member therof, they reſolved to lend their beſt ayde and aſſiſtance to the ſaid Lord, to the end that thereby he might be the better enabled to diſcharge that truſt which was committed to him.</p>
+            <p>Wherefore they in ſeverall companies met him on the way, proffering their lives and fortunes to be commanded by him, ſo that before he had marched three miles be had about three thou<g ref="char:EOLhyphen"/>ſand horſe and foote, with which he marched till he arrived the Heath, where the Earle of <hi>Northampton</hi> was accompanied with his partie: the ſight of whom cauſed the ſaid Lord to make a ſtand, which being effected, he drew up his Foote into a compleat Body, placing his Horſes on the wings, likewiſe his Ordnance being mounted on running carriages he drew up in the middle, making a ſmall diviſion, to the end that if occaſion were, they might offend the ene<g ref="char:EOLhyphen"/>my, and yet indure no hazard.</p>
+            <p>Having in this order placed them, He with a chearfull countenance asked them, if they were
+<pb n="6" facs="tcp:125499:4"/>reſolved to ſtand it out, and to hazard their lives in the defence of the King and Parliament.</p>
+            <p>They with a generall ſhout confirmed it, ſhewing ſuch ſymptomes of their forwardneſſe, that made my Lord <hi>Brooks</hi> weepe with very ioy, giving them thankes with ſuch a heartie love, which wrought ſo with them, that they marcht forward with ſuch confidence that they diſheart<g ref="char:EOLhyphen"/>ned the other partie, who were ready to revolt before they came to parley; Nevertheleſſe, the Lord <hi>Books</hi> intreated them, as they eſteemed the peace of the Kingdome, not for to ſhoot one Pi<g ref="char:EOLhyphen"/>ſtoll without they were inforced for their de<g ref="char:EOLhyphen"/>fence; onely to uſe all meanes they could for to outdare them, by that meanes to attaine their de<g ref="char:EOLhyphen"/>ſires without the effuſion of bloud.</p>
+            <p>In the meane time, the Earle of <hi>Northampton</hi> had beſtowed Lip-labour on his valiant follow<g ref="char:EOLhyphen"/>ers, and heartned them on, drawing them on within Piſtoll-ſhot of the Lord <hi>Brooks,</hi> which be<g ref="char:EOLhyphen"/>ing done, they made a ſtand, and beat a Parley. Which was anſwered by my Lord <hi>Brooks</hi> and twenty Gentlemen choſe out of either partie as Guards for to ſecure them; both parties met and the Earle of <hi>Northampton</hi> made his demands, which were to this effect:</p>
+            <p n="1">
+               <pb n="7" facs="tcp:125499:4"/> 1. That the ſaid Lord <hi>Brooks</hi> ſhould deliver him the Ammunition which he had in his com<g ref="char:EOLhyphen"/>mand, for to be imployed in his <hi>Majeſties</hi> ſervice.</p>
+            <p n="2">2. That he ſhould deſiſt in putting the <hi>Mili<g ref="char:EOLhyphen"/>tia</hi> in execution.</p>
+            <p n="3">3. That he ſhould reſigne <hi>Warwicke</hi> Caſtle.</p>
+            <p>Withall threatning my Lord <hi>Brooks,</hi> that if he ſhould deny his juſt, lawfull, and friendly Demands, (not doubting the reſolution of his followers, and knowing the juſtice of his cauſe) he would make that place their graves that ſtood in oppoſition, giving them ſuch reproachfull words, that the twenty Gentlemen that were elected as a Guard to the Lord <hi>Brooks,</hi> unexſpe<g ref="char:EOLhyphen"/>ctedly diſarmed the Guard on the other partie, unhorſing of them before ever they knew what the matter was; which the Earle ſeeing clapt ſpurres to his Horſe and rid to the Head of his Troopes, bidding them give fire. Like Wiſe the Lord <hi>Brooks</hi> cauſed his men to open to the right and left, which being done, the Adverſe partie might ſee his Ordnance mounted, and his Can<g ref="char:EOLhyphen"/>non neere ready to give fire: Which they ſeeing in ſtead of fighting began to throw downe their Armes and ran away, ſome to the Lord <hi>Brooks,</hi> and ſome to their owne Houſes, leaving the
+<pb n="8" facs="tcp:125499:5"/>Earle none but one of his Gentlemen and two foot-boyes to attend him, which cauſed the ſaid Earle to try whether He or his foot-boyes could run faſteſt. Which cauſed ſuch a ſhouting on the other ſide, as was wonderfull to heare.</p>
+            <p>This danger being over, the Lord <hi>Brooks</hi> cau<g ref="char:EOLhyphen"/>ſed the Armes to be gathered up that they had left behind them and put them upon a Waggon; and afterward read a Vote of the Lords &amp; Com<g ref="char:EOLhyphen"/>mons, Concerning the Commiſſion of Array, namely, that the Lords and Commons aſſem<g ref="char:EOLhyphen"/>bled in Parliament, That the Commiſſions of Array granted by his Maieſtie, are altogether illegall, deſtructive to the peace of the Kingdom, againſt the Lawes of the Land, and the libertie of the Subiect; withall encouraging them on to a readineſſe to obey the Parliament, and to withſtand the Commiſſioners of Array.</p>
+            <p>Which being done, He took his lourney for<g ref="char:EOLhyphen"/>ward, where I will leave Him and you, till the next opportunitie ſhall give occaſion to informe you of His further Proceedings.</p>
+            <closer>
+               <dateline>From <hi>Banbury</hi> 
+                  <date>this 3. of <hi>Auguſt.</hi> 1642.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>Ordered that this be Printed and publiſhed.</p>
+               <closer>
+                  <signed>Joh. Brown Cler. Parliament.</signed>
+               </closer>
+            </postscript>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
